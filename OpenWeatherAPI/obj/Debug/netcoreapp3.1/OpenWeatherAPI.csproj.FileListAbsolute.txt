@@ -1,0 +1,15 @@
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.exe
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.deps.json
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.runtimeconfig.json
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.runtimeconfig.dev.json
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.dll
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.pdb
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.csprojAssemblyReference.cache
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.AssemblyInfoInputs.cache
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.AssemblyInfo.cs
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.csproj.CopyComplete
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.dll
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.pdb
+C:\Users\hunter\repos\OpenWeatherAPI\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.genruntimeconfig.cache
